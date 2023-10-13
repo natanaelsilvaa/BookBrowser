@@ -1,0 +1,67 @@
+nav {
+
+  display: flex;
+  justify-content: space-around;
+  background-color: #050305;
+  padding-top: 20px;
+  padding-bottom: 30px;
+
+}
+
+h1 {
+  cursor: pointer;
+  color: #fddb00;
+}
+
+.Link {
+  margin-top: 20px;
+}
+
+form {
+  display: flex;
+  margin-top: 20px;
+}
+
+nav a {
+  padding: 15px;
+  font-size: 1.2em;
+  border-radius: 10px;
+  margin-right: 20px;
+  color: #E4E4E5;
+  text-decoration: none;
+
+}
+
+nav a:hover {
+  background-color: #1d1827;
+
+
+}
+
+.active {
+  background-color: #1d1827;
+}
+
+.input1 {
+  font-family: Arial, sans-serif;
+  border-radius: 4px;
+  width: 30em;
+  padding: 5px 80px 10px 0;
+  border: none;
+  height: 28px;
+  font-family: Arial;
+  font-size: 1em;
+  background: #fff;
+  color: #111;
+  text-indent: 8px;
+}
+
+.button {
+
+  width: 4em;
+  height: 2.8em;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}

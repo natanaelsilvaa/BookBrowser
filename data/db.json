@@ -1,0 +1,44 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "Como convencer alguém em 90 segundos",
+        "img": "https://m.media-amazon.com/images/I/81n0U7HAfVL._SL1500_.jpg",
+        "sobre": "Como convencer alguém em 90 segundos é a garantia de uma comunicação de sucesso, transformando as conexões instantâneas em duradouras e produtivas relações de negócios. Neste livro, o especialista Nicholas Boothman ensina como usar o rosto, o corpo, a atitude e a voz para causar uma primeira impressão marcante, estabelecendo confiança imediata e criando fortes vínculos de credibilidade.",
+        "autor": "Nicholas Boothman",
+        "price": 42.42
+      },
+      {
+        "id": 2,
+        "name": "Hábitos Atômicos",
+        "img": "https://m.media-amazon.com/images/I/81eT2pjx4jL._SL1500_.jpg",
+        "sobre": "Pequenas mudanças, resultados impressionantes. Não importa quais sejam seus objetivos, Hábitos Atômicos oferece um método eficaz para você se aprimorar ― todos os dias. James Clear, um dos mais expoentes especialistas na criação de hábitos, revela as estratégicas práticas que o ensinarão, exatamente, como criar bons hábitos, abandonar os maus e fazer pequenas mudanças de comportamento que levam a resultados impressionantes. Se enfrenta dificuldades para mudar seus hábitos, o problema não é você, é o sistema escolhido. ",
+        "autor": "James Clear",
+        "price": 49.63
+      },
+      {
+        "id": 3,
+        "name": "A Sutil Arte de Ligar o Foda-se",
+        "img": "https://m.media-amazon.com/images/I/6175IU0qFgL._SL1000_.jpg",
+        "sobre": "Chega de tentar buscar um sucesso que só existe na sua cabeça. Chega de se torturar para pensar positivo enquanto sua vida vai ladeira abaixo. Chega de se sentir inferior por não ver o lado bom de estar no fundo do poço. Coaching, autoajuda, desenvolvimento pessoal, mentalização positiva - sem querer desprezar o valor de nada disso, a grande verdade é que às vezes nos sentimos quase sufocados diante da pressão infinita por parecermos otimistas o tempo todo.",
+        "autor": "Mark Manson",
+        "price": 45.76
+      },
+      {
+        "id": 4,
+        "name": "Raciocínio & Lógica",
+        "img": "https://m.media-amazon.com/images/I/81TAOP6ERAS._SL1500_.jpg",
+        "sobre": "Nosso cérebro pode ser treinado para nos beneficiar. Para tanto, é preciso alterarmos nosso comportamento, aprendermos a ter uma percepção diferente da realidade e, o mais importante, investirmos tempo na realização de tarefas que estimulem esse fascinante órgão formado por cerca de 86 bilhões de neurônios. Os jogos de raciocínio e lógica apresentados neste livro são ótimos exercícios para o cérebro. Será que você está preparado para este desafio?",
+        "autor": "Robério Gonçalves",
+        "price": 21.25
+      },
+      {
+        "id": 5,
+        "name": "Entendendo Algoritimos",
+        "img": "https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg",
+        "sobre": "Um guia ilustrado para programadores e outros curiosos. Um algoritmo nada mais é do que um procedimento passo a passo para a resolução de um problema. Os algoritmos que você mais utilizará como um programador já foram descobertos, testados e provados. Se você quer entendê-los, mas se recusa a estudar páginas e mais páginas de provas, este é o livro certo. Este guia cativante e completamente ilustrado torna simples aprender como utilizar os principais algoritmos nos seus programas.  ",
+        "autor": "Aditya Bhargava",
+        "price": 68.19
+      }
+    ]
+  }
